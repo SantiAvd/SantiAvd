@@ -9,5 +9,5 @@ __Languages:__
 
 __Follow me:__
 
-[![Flutter](https://img.shields.io/badge/Telegram-434888?style=for-the-badge&logo=Telegram)]((https://t.me/tell_me_why8_8))
-[![Flutter](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK)]((https://vk.com/sfanklin_matrush))
+[![Flutter](https://img.shields.io/badge/Telegram-434888?style=for-the-badge&logo=Telegram)](https://t.me/tell_me_why8_8)
+[![Flutter](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK)](https://vk.com/sfanklin_matrush)
